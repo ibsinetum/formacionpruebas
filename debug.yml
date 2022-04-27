@@ -4,4 +4,4 @@
   tasks:
   - name: Ha ido correctamente
     debug:
-      msg: "Este job ha ido correctamente"
+      msg: "{{ MENSAJE }}"
